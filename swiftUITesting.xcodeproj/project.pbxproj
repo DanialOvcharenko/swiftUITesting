@@ -51,7 +51,7 @@
 		042FC38527B813BE00878E44 = {
 			isa = PBXGroup;
 			children = (
-				042FC39027B813BF00878E44 /* swiftUILessonX */,
+				042FC39027B813BF00878E44 /* swiftUITesting */,
 				042FC38F27B813BF00878E44 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -64,7 +64,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		042FC39027B813BF00878E44 /* swiftUILessonX */ = {
+		042FC39027B813BF00878E44 /* swiftUITesting */ = {
 			isa = PBXGroup;
 			children = (
 				042FC39127B813BF00878E44 /* swiftUILessonXApp.swift */,
@@ -77,7 +77,7 @@
 				042FC39527B813C200878E44 /* Assets.xcassets */,
 				042FC39727B813C200878E44 /* Preview Content */,
 			);
-			path = swiftUILessonX;
+			path = swiftUITesting;
 			sourceTree = "<group>";
 		};
 		042FC39727B813C200878E44 /* Preview Content */ = {
@@ -134,9 +134,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		042FC38D27B813BF00878E44 /* swiftUILessonX */ = {
+		042FC38D27B813BF00878E44 /* swiftUITesting */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 042FC39C27B813C200878E44 /* Build configuration list for PBXNativeTarget "swiftUILessonX" */;
+			buildConfigurationList = 042FC39C27B813C200878E44 /* Build configuration list for PBXNativeTarget "swiftUITesting" */;
 			buildPhases = (
 				042FC38A27B813BF00878E44 /* Sources */,
 				042FC38B27B813BF00878E44 /* Frameworks */,
@@ -146,7 +146,7 @@
 			);
 			dependencies = (
 			);
-			name = swiftUILessonX;
+			name = swiftUITesting;
 			productName = swiftUILessonX;
 			productReference = 042FC38E27B813BF00878E44 /* swiftUITesting.app */;
 			productType = "com.apple.product-type.application";
@@ -166,7 +166,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 042FC38927B813BE00878E44 /* Build configuration list for PBXProject "swiftUILessonX" */;
+			buildConfigurationList = 042FC38927B813BE00878E44 /* Build configuration list for PBXProject "swiftUITesting" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -179,7 +179,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				042FC38D27B813BF00878E44 /* swiftUILessonX */,
+				042FC38D27B813BF00878E44 /* swiftUITesting */,
 			);
 		};
 /* End PBXProject section */
@@ -340,7 +340,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"swiftUILessonX/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"swiftUITesting/Preview Content\"";
 				DEVELOPMENT_TEAM = URXJ9G4DT3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -371,7 +371,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"swiftUILessonX/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"swiftUITesting/Preview Content\"";
 				DEVELOPMENT_TEAM = URXJ9G4DT3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -398,7 +398,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		042FC38927B813BE00878E44 /* Build configuration list for PBXProject "swiftUILessonX" */ = {
+		042FC38927B813BE00878E44 /* Build configuration list for PBXProject "swiftUITesting" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				042FC39A27B813C200878E44 /* Debug */,
@@ -407,7 +407,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		042FC39C27B813C200878E44 /* Build configuration list for PBXNativeTarget "swiftUILessonX" */ = {
+		042FC39C27B813C200878E44 /* Build configuration list for PBXNativeTarget "swiftUITesting" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				042FC39D27B813C200878E44 /* Debug */,
